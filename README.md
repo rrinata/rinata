@@ -77,15 +77,15 @@ git branch -d "branch1"
 ```
 >создание ветки
 ```
-checkout -b
+git checkout -b
 ```
 >создаёт и сразу переходит в новую ветку, выполняет эти две команды
 ```
-branch
+git branch
 ```
 >создаёт новую ветку
 ```
-checkout
+git checkout
 ```
 >переход между ветками
 ```
